@@ -26,7 +26,9 @@ Run the script:
 
 bash
 Copy code
-python filter_sequences.py
+
+python  extract_sequences.py input_DIR output_DIR list_names_sequences.txt
+
 The filtered sequences will be saved in the directory out_dir.
 
 
